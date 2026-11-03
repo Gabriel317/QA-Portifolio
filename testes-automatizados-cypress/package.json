@@ -1,0 +1,17 @@
+{
+  "name": "cypress-testes",
+  "version": "1.0.0",
+  "description": "Testes automatizados E2E com Cypress no site saucedemo.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}
